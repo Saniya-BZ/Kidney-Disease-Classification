@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Kidney-Disease-Classification/mlruns/0/1275a2e50861415ab2c80b47427bedec/artifacts
+end_time: 1720157103507
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1275a2e50861415ab2c80b47427bedec
+run_name: brawny-ant-370
+run_uuid: 1275a2e50861415ab2c80b47427bedec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720157087824
+status: 3
+tags: []
+user_id: Administrator
