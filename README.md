@@ -1,4 +1,12 @@
-# Kidney-Disease-Classification
+# NephroNet-VGG16: Kidney Disease Classification Using VGG16
+
+NephroNet-VGG16 is a deep learning project aimed at classifying kidney diseases from CT scan images using the VGG16 convolutional neural network model. This project leverages the power of VGG16's pre-trained architecture to accurately detect and categorize kidney diseases, providing a valuable tool for medical professionals and researchers.
+
+Features :
+Pre-trained VGG16 Model: Utilizes the VGG16 model pre-trained on ImageNet for feature extraction and fine-tuning on kidney CT scan images.
+Data Augmentation: Implements various data augmentation techniques to enhance the robustness and generalizability of the model.
+High Accuracy: Achieves high classification accuracy through extensive training and validation processes.
+User-Friendly Interface: Provides a straightforward interface for loading images, predicting results, and visualizing outcomes.
 
 
 ## Workflows
