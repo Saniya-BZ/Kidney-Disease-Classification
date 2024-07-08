@@ -20,10 +20,10 @@ def get_requirements(filepath:str)->List[str]:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "Kidney-Disease-Classification"
+REPO_NAME = "NephroNet-VGG16"
 AUTHOR_USER_NAME = "Saniya-BZ"
 SRC_REPO = "cnnClassifier"
-AUTHOR_EMAIL = "saniyabz2003@ymail.com"
+AUTHOR_EMAIL = "saniyabz2003@gmail.com"
 
 setup(
     name=SRC_REPO,
